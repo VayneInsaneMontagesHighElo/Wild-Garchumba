@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
+    <title>garchomp pokedex</title>
+    <style>
+body img{
+    text-align: center;
+ width: 500px;
+ height: 400px;
+}
+body p{
+text-align: center;
+}
+body h1{
+    text-align: center;
+}
+</style>
+</head>
+
+<body>
+    <header>
+        <h1> Cuidado, este é um ser extremamente letal </h1>
+    </header>
+    <main>
+<p>
+    It flies at the speed of sound while searching for prey, and it has midair battles with Salamence as the two compete for food.
+</p>
+<p> Uma máquina de combate </p>
+   <center><img src=https://images-americanas.b2w.io/produtos/01/00/img/1570548/8/1570548887_1GG.jpg alt="saas"></center>
+    </main>
+</body>
+
+</html>  
